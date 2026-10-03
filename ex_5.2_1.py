@@ -1,0 +1,5 @@
+p1=('"Python is a great language!", said Fred. ')
+p2=('"')
+p3=("I don't ever remember having this much fun before.")
+p4=('"')
+print(p1+p2+p3+p4)
